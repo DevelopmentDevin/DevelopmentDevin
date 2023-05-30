@@ -2,8 +2,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![17](https://github.com/DevelopmentDevin/DevelopmentDevin/assets/78235629/4e648c35-dfc8-4b2e-81c8-0aeb29246afc)
 
-![1_-ntL3Dsvc-dJ5cLGRtSuEw](https://github.com/DevelopmentDevin/DevelopmentDevin/assets/78235629/b7d17782-44e1-4f88-9b4f-22606e37b91a)
-
 
 ### Languages and tools
 
