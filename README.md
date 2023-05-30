@@ -1,5 +1,6 @@
 ### Devin Nunez 👋
-![aOCDqh](https://github.com/DevelopmentDevin/DevelopmentDevin/assets/78235629/79a1be56-35d0-4563-a2d4-f42493723a18)
+
+![6M8G](https://github.com/DevelopmentDevin/DevelopmentDevin/assets/78235629/f68e1f54-964c-40d1-9f52-3d04130190c2)
 
 
 ___
