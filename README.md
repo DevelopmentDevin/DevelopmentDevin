@@ -1,7 +1,7 @@
 ### Devin Nunez 👋
-
+<p align="center">
 ![17](https://github.com/DevelopmentDevin/DevelopmentDevin/assets/78235629/4e648c35-dfc8-4b2e-81c8-0aeb29246afc)
-
+</p>
 
 
 ___
