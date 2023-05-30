@@ -21,7 +21,7 @@ ___
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=devv-nunn&show_icons=true&theme=dark)
 
 <details>
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+ <summary><h4>👨‍💻 My Coding Journey</h4></summary>
   ...
 
 <!--
