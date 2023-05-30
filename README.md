@@ -16,6 +16,12 @@ ___
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+#
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=devv-nunn&show_icons=true&theme=dark)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
 <!--
 **devv-nunn/devv-nunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
