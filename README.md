@@ -32,7 +32,7 @@ I am highly adaptable and thrive in fast-paced environments, where I can utilize
 
 If you are looking for a dedicated and motivated web developer who can bring your ideas to life and deliver exceptional user experiences, I would love to connect. Let's collaborate and build something great together!
 
-Feel free to reach out to me through LinkedIn or via email at devv.nunn@gmail.com. I'm open to discussing new opportunities, freelance projects, or simply connecting with fellow professionals in the industry.
+Feel free to reach out to me through LinkedIn or via email at devv.nunn@gmail.com. I am open to discussing new opportunities, freelance projects, or simply connecting with fellow professionals in the industry.
 
 <!--
 **devv-nunn/devv-nunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
