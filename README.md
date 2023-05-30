@@ -1,6 +1,9 @@
 ### Devin Nunez 👋
 
-![17](https://github.com/DevelopmentDevin/DevelopmentDevin/assets/78235629/4e648c35-dfc8-4b2e-81c8-0aeb29246afc)
+<p align="center" width="100%">
+    <img src="[https://i.stack.imgur.com/RJj4x.png](https://github.com/DevelopmentDevin/DevelopmentDevin/assets/78235629/4e648c35-dfc8-4b2e-81c8-0aeb29246afc)">
+</p>
+<!-- ![17](https://github.com/DevelopmentDevin/DevelopmentDevin/assets/78235629/4e648c35-dfc8-4b2e-81c8-0aeb29246afc) -->
 
 
 ___
