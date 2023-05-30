@@ -22,7 +22,17 @@ ___
 
 <details>
  <summary><h4>👨‍💻 My Coding Journey</h4></summary>
-  ...
+  Hello, I am Devin Nunez, a passionate web developer with 8 months of industry experience and 6+ years of both programming and exposure to User Experience / Human Computer Interaction. Currently, I am enrolled in a full stack development boot camp, constantly expanding my skills and knowledge to stay at the forefront of web development trends.
+
+My expertise lies in front-end development, and I posess professional-level experience in HTML, CSS, JavaScript, and frameworks such as Bootstrap and React.js. I thrive on creating engaging and intuitive user experiences while adhering to modern design principles and best practices.
+
+Throughout my career, I have worked on various projects, honing my problem-solving skills and collaborating effectively with cross-functional teams. I have a strong understanding of responsive web design, ensuring seamless experiences across different devices and screen sizes.
+
+I am highly adaptable and thrive in fast-paced environments, where I can utilize my creativity and technical skills to deliver high-quality web solutions. I am passionate about learning new technologies and continuously enhancing my skill set to provide innovative solutions to complex challenges.
+
+If you are looking for a dedicated and motivated web developer who can bring your ideas to life and deliver exceptional user experiences, I would love to connect. Let's collaborate and build something great together!
+
+Feel free to reach out to me through LinkedIn or via email at devv.nunn@gmail.com. I'm open to discussing new opportunities, freelance projects, or simply connecting with fellow professionals in the industry.
 
 <!--
 **devv-nunn/devv-nunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
