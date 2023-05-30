@@ -20,7 +20,9 @@ ___
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=devv-nunn&show_icons=true&theme=dark)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<details>
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+  ...
 
 <!--
 **devv-nunn/devv-nunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
