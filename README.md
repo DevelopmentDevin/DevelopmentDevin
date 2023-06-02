@@ -1,8 +1,9 @@
-<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![17](https://github.com/DevelopmentDevin/DevelopmentDevin/assets/78235629/4e648c35-dfc8-4b2e-81c8-0aeb29246afc) -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![17](https://github.com/DevelopmentDevin/DevelopmentDevin/assets/78235629/4e648c35-dfc8-4b2e-81c8-0aeb29246afc)
 
+<!-- 
 My Teacher
 <br>
-![luiswallpaper_720](https://github.com/DevinDevelopment/DevinDevelopment/assets/78235629/1833fd0c-27c8-41ff-bf4d-3adc1f6543e7)
+![luiswallpaper_720](https://github.com/DevinDevelopment/DevinDevelopment/assets/78235629/1833fd0c-27c8-41ff-bf4d-3adc1f6543e7) -->
 
 ### Languages and tools
 
